@@ -1,0 +1,30 @@
+****** ROADMAP **********
+
+Frontend - HTML, CSS, Bootstrap, Javascript (versions)
+
+Backend - Python, Mysql (versions)
+
+Framework - Flask(versions)
+
+Directory name - ??
+
+GIT branch name - ??
+
+Virtual Enviornment name - ??
+
+Config file - Mysql Credentials, Logger, User autherization
+
+- Templates 
+
+	1. Login Page
+
+	2. Inventory Page
+	
+	3. Display Item details Page (Price, image etc ) --> check documentation for this
+	
+- Modules
+
+	1. main.py
+	
+	2. mysql_querys.py
+	

@@ -1,0 +1,81 @@
+********** Requirements ***********
+
+1. Website name - Sadguru Amrit-Tulya
+
+2. Track the different items they have for sale. This will require a frontend/backend solution.
+
+3. Frontend Requirements: HTML, CSS, Bootstrap, Javascript
+
+4. Create a page with a component at the top that can be used to add a new item to the inventory.
+
+   - The component should require a name, description, and price for the new item.
+   
+   - Extra points if you can upload a picture of the item as well. Below the component that adds new items to the inventory, 
+     display a list containing the name and price of each item in the inventory.
+	 
+   - If your app supports image uploads, you can display a thumbnail here as well. Each item in the list should have a button to remove it from the inventory. 
+   
+   - Clicking on an item should bring the user to a new page with all the information about the selected item (name, description, price, and optionally photo).
+   
+5. - All API calls should be asynchronous and not cause any full-page reloads. 
+   
+   - The only full-page reloads the user should see are those caused by navigating between the two pages of the app
+   
+6. - Regarding visual styles, the only requirement is that the content of both pages should be both horizontally and vertically centered. 
+
+   - Beyond that, feel free to demonstrate whatever presentational knowledge/skills you have. J
+   
+   - Just remember to keep it simple, visually -- this is "Sadguru's Amrit-Tulya - Tea Shop", after all. 
+
+7. Backend Requirements: 
+
+	-	Pick a Backend technology that you are comfortable with or interviewing for. (C# / Python / MockAPI https://mockapi.io/
+
+8. MockAPI:
+
+   -	MockAPI is a simple tool that lets you easily mock up APIs, generate custom data, and preform operations on it using RESTful interface. 
+   
+   -	MockAPI is meant to be used as ... mockapi.io
+
+9. Implement the API for "Sadguru's Amrit-Tulya - Tea Shop". 
+
+   -	Use a SQL database and any ORM you feel comfortable with for any persistent data storage needs. 
+   
+   -	All of the functions of the frontend needs to be served by an API call and the store’s inventory 
+        should be persisted across restarts of the backend process. 
+		
+10. Tracking 
+
+    -	Please do your best to keep track of how long you spend on the implementation of each of the backend, frontend functionality, 
+		and the frontend presentational aspects (styling, DOM, etc).
+		
+11. Deployment Requirements:
+
+	-	The deliverable will be shared via GitHub, BitBucket, or SourceTree containing all relevant code to deploy to a production server.
+	
+12. Evaluation and Scoring:
+
+	-	The design should be simple and minimal. You are free to ask any questions for clarification or help.
+
+	-	You will be evaluated on the below attributes -
+
+		- Completeness of Frontend requirements
+
+		- Completeness of Backend requirements
+
+		- Deployment ready Code
+
+		- Code Readability
+
+		- Use of Technical concepts
+		
+***********************************************************************************************
+		
+Next Steps:
+
+1. Read the requirement thoroughly. Please keep a copy of it for a reference if needed.
+
+2. Send the deliverable to deep@thinkbridge.in, shivani@thinkbridge.in in the next 10 days via GitHub, BitBucket, or SourceTree. 
+   If not received within the specified time, we will consider it as an unattempted question.
+
+3. Click on the Submit button of this test.
